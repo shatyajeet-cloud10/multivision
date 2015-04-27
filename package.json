@@ -9,6 +9,13 @@
   "author": "Shatyajeet Parida",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.1",
+    "mongoose": "^4.0.2",
+    "morgan": "^1.5.2",
+    "stylus": "^0.51.0"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1"
   }
 }
